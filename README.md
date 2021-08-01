@@ -9,6 +9,12 @@ ______
 
 - 🔭 Я работаю над ботом Red-Rock Informals Server 
 - 🌱 Я хочу стать Middle Fullstack JavaScript Developer 
+
+______
+### Мои проекты
+Название | Версия | Ссылка
+:-------|:---------:|:---------:
+**Informals Red-Rock Bot** | **v. 1.0.0**|[URL](https://github.com/Walton-Company/Informals08)
 ______
 ### Связь со мной
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/prince-walton)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/patr6)  
