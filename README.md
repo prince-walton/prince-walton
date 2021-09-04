@@ -1,7 +1,7 @@
 ______
 ### Привет всем, 👋, меня зовут Prince Walton
-#### Я Junior Fullstack JavaScript Developer с 2-ух летним опытом!
-![Я Junior Fullstack JavaScript Developer с 2-ух летним опытом!](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/55c2b207-5d38-4efe-91c5-5fb2066c6ac2/d58h21l-45a8712f-56f8-4e44-ab83-423197339e11.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU1YzJiMjA3LTVkMzgtNGVmZS05MWM1LTVmYjIwNjZjNmFjMlwvZDU4aDIxbC00NWE4NzEyZi01NmY4LTRlNDQtYWI4My00MjMxOTczMzllMTEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.m3b-Jub6buyhy7fccN3RHK5-9JmdRjT6BLlW2a7n0z0)
+#### Я Middle Fullstack JavaScript Developer с 3-ёх летним опытом!
+![Я Middle Fullstack JavaScript Developer с 3-ёх летним опытом!](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/55c2b207-5d38-4efe-91c5-5fb2066c6ac2/d58h21l-45a8712f-56f8-4e44-ab83-423197339e11.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU1YzJiMjA3LTVkMzgtNGVmZS05MWM1LTVmYjIwNjZjNmFjMlwvZDU4aDIxbC00NWE4NzEyZi01NmY4LTRlNDQtYWI4My00MjMxOTczMzllMTEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.m3b-Jub6buyhy7fccN3RHK5-9JmdRjT6BLlW2a7n0z0)
 
 Просто разработчик, который любит наруто.
 
