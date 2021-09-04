@@ -5,17 +5,18 @@ ______
 
 Просто разработчик, который любит наруто.
 
-Мои навыки: JS / PHP / Laravel / Express.js / Vue.js
+Мои навыки: JS / PHP / Laravel / Express.js / Vue.js / Python
 
-- 🔭 Я работаю над ботом Red-Rock Informals Server 
-- 🌱 Я хочу стать Middle Fullstack JavaScript Developer 
+- 🔭 Я работаю над форумом
+- 🌱 Я хочу стать Senior Fullstack JavaScript Developer 
 
 ______
 ### Мои проекты
 Название | Версия | Ссылка | Статус
 :-------|:---------:|:---------:|:---------:
-**Informals Red-Rock Bot** | **v. 1.0.0**|[URL](https://github.com/Walton-Company/Informals08) | <ul><li>- [ ] Открыт</li><ul>
+**Informals Red-Rock Bot** | **v. 1.0.0**|[URL](https://github.com/Walton-Company/Informals08) | <ul><li>- [X] Провал</li><ul>
 **RoboFloppa** | **v. 52.2.0**|[URL](https://github.com/Walton-Company/RoboFloppa) | <ul><li>- [x] Завершён</li><ul>
+ **JavaScript-Forum** | **v. 1.0.0**|[URL](https://github.com/prince-walton/JavaScript-Forum) | <ul><li>- [ ] Открыт</li><ul>
  ______
 ### Связь со мной
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/prince-walton)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/patr6)  
